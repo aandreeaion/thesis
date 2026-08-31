@@ -578,7 +578,6 @@ Selected statistical outputs are stored under:
 
 ```text
 results/analysis/nlpcss20_descriptive_analysis/
-results/analysis/nlpcss20_pacc/
 results/nlpcss20_sequence_statistical_tests.csv
 ```
 
@@ -617,7 +616,6 @@ Manual error-analysis summaries
 Corpus descriptive statistics
 Statistical test results
 Sequence-analysis results
-PACC-adjusted prevalence estimates
 ```
 
 These files make it possible to inspect many of the reported quantitative results without rerunning model training.
