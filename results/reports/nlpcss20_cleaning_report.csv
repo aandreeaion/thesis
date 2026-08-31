@@ -1,0 +1,6 @@
+step,articles
+original_corpus,7775
+after_validation_article_removal,7730
+after_extreme_outlier_removal,7729
+after_short_article_removal,7701
+after_exact_duplicate_removal,7656

@@ -1,0 +1,7 @@
+gold_label,anecdote,assumption,none,other,statistics,testimony
+anecdote,4,4,3,0,0,0
+assumption,2,3,3,0,0,0
+none,5,4,0,2,1,0
+other,0,2,2,0,0,0
+statistics,0,0,0,0,1,0
+testimony,3,1,4,0,0,16

@@ -1,0 +1,45 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / OS
+.vscode/
+.DS_Store
+
+# Environment variables / secrets
+.env
+*.env
+
+# Cluster logs
+*.out
+*.err
+*.log
+
+# Raw and processed datasets
+data/
+
+# Model training outputs, checkpoints, predictions
+outputs/
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Hugging Face / cache
+.cache/
+huggingface/
+wandb/
+
+# Temporary files
+*.tmp
+*.bak
+results/model_predictions/

@@ -1,0 +1,13 @@
+manual_category,count,percentage
+boundary_issue_only,13,21.7
+span_segmentation_issue,10,16.7
+noise_or_formatting,10,16.7
+no_error_meaningful,7,11.7
+testimony_anecdote_ambiguity,5,8.3
+anecdote_assumption_ambiguity,5,8.3
+other,3,5.0
+anecdote_statistics_ambiguity,2,3.3
+statistics_testimony_ambiguity,2,3.3
+testimony_statistics_ambiguity,1,1.7
+missed_gold_span,1,1.7
+testimony_assumption_ambiguity,1,1.7
